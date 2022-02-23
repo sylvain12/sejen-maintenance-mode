@@ -58,6 +58,7 @@
 .main-content p {
 	width: 100%;
 	margin-bottom: 3rem;
+	line-height: 1.7;
 }
 
 .timer {
